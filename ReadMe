@@ -1,0 +1,15 @@
+Run Order:
+City.sql
+company.sql
+createdBy.sql
+email.sql
+shipment.sql
+shipmentStatus.sql
+state.sql
+title.sql
+products.sql
+phone.sql
+item.sql
+contact.sql
+invoices.sql
+dropTable.sql
